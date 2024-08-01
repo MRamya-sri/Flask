@@ -1,6 +1,6 @@
 # Flask
 
-This repository contains a basic Flask project that demonstrates how to render HTML templates and apply CSS styling.
+This repository contains a basic Flask project that demonstrates how to render HTML templates and apply CSS styling and JS.
 
 ## Project Structure
 ├── app.py
