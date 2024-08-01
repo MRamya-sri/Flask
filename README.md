@@ -1,21 +1,31 @@
 # Flask
 
 This repository contains a basic Flask project that demonstrates how to render HTML templates and apply CSS styling and JS.
+## overview 
+
+
+
+![Screenshot (560)](https://github.com/user-attachments/assets/45df257f-5073-422b-be77-207c2ac0011d)
+
+
+![Screenshot (560)](https://github.com/user-attachments/assets/702346f8-7ae0-4571-8dd9-a1b5cd78c710)
 
 ## Project Structure
 ├── app.py
 ├── static
 │ └── css
-│ └── styles.css
+│ └── main.css
+  |__ main.js
 ├── templates
 │ └── index.html
 ├── README.md
 
 
 - `app.py`: The main Flask application file.
-- `static/css/styles.css`: The CSS file for styling HTML templates.
+- `static/css/main.css`: The CSS file for styling HTML templates.
+- `static/css/main.js`: The JS file for rendering in HTML templates.
 - `templates/index.html`: The HTML template file.
-- `requirements.txt`: The file listing the Python dependencies.
+
 
 ## Prerequisites
 
