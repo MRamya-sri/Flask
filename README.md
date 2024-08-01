@@ -8,7 +8,7 @@ This repository contains a basic Flask project that demonstrates how to render H
 ![Screenshot (560)](https://github.com/user-attachments/assets/45df257f-5073-422b-be77-207c2ac0011d)
 
 
-![Screenshot (560)](https://github.com/user-attachments/assets/702346f8-7ae0-4571-8dd9-a1b5cd78c710)
+![Screenshot (561)](https://github.com/user-attachments/assets/43947b63-4525-4320-b270-bce13a4db63c)
 
 ## Project Structure
 ├── app.py
