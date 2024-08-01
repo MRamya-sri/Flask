@@ -32,12 +32,10 @@ This repository contains a basic Flask project that demonstrates how to render H
   
   2. create an env
   
-  ```bash
   python -m venv venv
   venv/bin/activate
 
  3. run the application
 
-  ```bash
-  python app.py
+   python app.py
 
